@@ -7,4 +7,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ianisop&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-<img src="https://count.getloli.com/@Ianisop?name=Ianisop&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto](https://count.getloli.com/@Ianisop?name=Ianisop&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1"/>
+![]<img src="https://count.getloli.com/@Ianisop?name=Ianisop&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto](https://count.getloli.com/@Ianisop?name=Ianisop&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1"/>
